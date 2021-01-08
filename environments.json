@@ -10,6 +10,7 @@
           "options": {
             "includeDependents": false
           },
+          "disabled": true,
           "notify": [
             {
               "channel": "new_notification_channel",
